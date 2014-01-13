@@ -119,7 +119,7 @@ then
       (maglev)   unicode="㎖" ;;
       (ironruby) unicode="♭" ;;
       (system)   unicode="★" ;;
-      (goruby)   unicode="⛳" ;; # TODO: what is this? can we use something more fonts support?
+      (goruby)   unicode="⚆.⚆" ;;
       (topaz)    unicode="🐍" ;; # TODO: what is this? can we use something more fonts support?
       (opal)     unicode="⬢" ;;
       (ruby)
